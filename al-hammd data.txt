@@ -8,6 +8,7 @@ Managing Director
 Office # 01, Hafeez Plaza, Al-Nisa Road, Chishtian. Distt: Bahawalnagar
 
 Zeeshan Bashir Chawla
+
 Marketing Head
 Office # 01, Hafeez Plaza, Al-Nisa Road, Chishtian. Distt: Bahawalnagar
 
@@ -20,3 +21,11 @@ Muhammad Sharjeel Saleem: 03004521223
 
 Zeeshan Bashir Chawla: 03006988968
 Zaheer Tariq: 03332013292
+1: Name
+2: Father Name
+3: email
+4: phone #
+5: address
+6: cnic #
+7: passport #
+8: city
