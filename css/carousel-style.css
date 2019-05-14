@@ -307,3 +307,10 @@ svg {
   -webkit-transform: rotateX(0);
           transform: rotateX(0);
 }
+
+.slide__text-desc , .slide__text-heading{
+  color: whitesmoke;
+}
+.slide__text-heading{
+  font-weight: 600;
+}
